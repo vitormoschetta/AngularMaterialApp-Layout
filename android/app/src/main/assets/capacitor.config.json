@@ -1,0 +1,6 @@
+{
+	"appId": "com.example.app",
+	"appName": "material-app",
+	"webDir": "dist/material-app",
+	"bundledWebRuntime": false
+}
